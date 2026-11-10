@@ -529,10 +529,11 @@ src/test/java/...                unit tests (*Tests) and integration tests (*IT)
 
 ## demo of git pull / branching / PR flow.
 
-this is a change.
+## Teacher 
+- jackdpeterson
 
-
+## Students working on this project
+- Brett
 - Geovana 
-- Trevor
 - James
-- Bratt
+- Trevor
